@@ -1,0 +1,148 @@
+{
+    "appLink": "",
+    "arcgisRuntime": {
+        "version": {
+            "major": 100,
+            "minor": 14
+        }
+    },
+    "capabilities": {
+        "audio": false,
+        "backgroundModes": {
+            "audio": {
+                "enabled": false
+            },
+            "bluetooth": {
+                "central": {
+                    "enabled": false
+                }
+            },
+            "ios": {
+                "externalAccessory": false
+            },
+            "location": {
+                "enabled": false
+            }
+        },
+        "beacon": false,
+        "biometricAuthentication": false,
+        "bluetooth": false,
+        "camera": false,
+        "fileSharing": false,
+        "highAccuracyLocation": true,
+        "ios": {
+            "externalAccessoryProtocolStrings": [
+            ]
+        },
+        "localnotification": false,
+        "location": true,
+        "microphone": false,
+        "network": true,
+        "storage": false,
+        "vibration": false
+    },
+    "deployment": {
+        "android": {
+            "packageName": ""
+        },
+        "arcgisApiKey": "",
+        "arcgisRuntimeExtensionsLicense": "",
+        "arcgisRuntimeLicense": "",
+        "clientId": "X3zPeFFbCfz6gpPe",
+        "ios": {
+            "bundleId": ""
+        },
+        "macos": {
+            "bundleId": "",
+            "codeSignIdentity": ""
+        },
+        "publisherName": "",
+        "shortcutName": "",
+        "uwp": {
+            "packageName": "",
+            "productID": ""
+        }
+    },
+    "devicesTypes": [
+        "desktop",
+        "tablet",
+        "phone"
+    ],
+    "display": {
+        "desktop": {
+            "minimumHeight": 400,
+            "minimumWidth": 420,
+            "windowMode": "default"
+        },
+        "enableHighDpi": true,
+        "phone": {
+            "landscape": false,
+            "portrait": true,
+            "showStatusBar": true
+        },
+        "statusBar": true,
+        "tablet": {
+            "landscape": true,
+            "portrait": true,
+            "showStatusBar": true
+        },
+        "windows": {
+            "renderingEngine": "default"
+        }
+    },
+    "environment": {
+    },
+    "launchUrlSchemes": [
+        "https"
+    ],
+    "mainFile": "Nearby.qml",
+    "make": {
+        "ignore": [
+            "Nearby/languages/*.sh",
+            "Nearby/languages/*.bat",
+            "Nearby/languages/*.ts",
+            "*.bat"
+        ]
+    },
+    "multipleInstances": true,
+    "projectFile": "Nearby.qmlproject",
+    "properties": {
+        "APIKey": "",
+        "brandColor": "#4e7246",
+        "enableAnonymousAccess": true,
+        "feedbackEmail": "",
+        "galleryMapsQuery": "id:74cfff757e5143fbb011f908ec8d0ac9",
+        "mediumFontTTF": "assets/fonts/OpenSans-Regular.ttf",
+        "portalSortField": "modified",
+        "portalSortOrder": "desc",
+        "portalUrl": "",
+        "regularFontTTF": "assets/fonts/OpenSans-Regular.ttf",
+        "showDisclaimer": false,
+        "startBackground": "assets/background.png",
+        "supportSecuredMaps": true
+    },
+    "resources": {
+        "appIcon": "appicon.png",
+        "launchImageBackground": "launchimage-background.png",
+        "launchImageBackgroundColor": "#ffffff",
+        "launchImageOverlay": "launchimage-overlay.png"
+    },
+    "templateName": "Nearby",
+    "translations": {
+        "fileName": "Nearby",
+        "path": "Nearby/languages",
+        "translateUsageDescriptionKeys": true
+    },
+    "type": "app",
+    "universalLink": "",
+    "urlScheme": "",
+    "usageDescriptionKeys": {
+        "faceIDUsageDescription": "This app requires Face ID permission to authenticate using facial recognition.",
+        "locationWhenInUseUsageDescription": "This app uses your location when in use to find nearby points of interest based on your current location."
+    },
+    "version": {
+        "major": 1,
+        "micro": 7,
+        "minor": 0
+    }
+}

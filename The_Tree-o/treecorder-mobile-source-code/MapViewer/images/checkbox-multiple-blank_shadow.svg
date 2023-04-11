@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <filter id="checkbox-multiple-blank" x="0" y="0" width="38" height="38" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#checkbox-multiple-blank)">
+    <path id="checkbox-multiple-blank-2" data-name="checkbox-multiple-blank" d="M22,16a2,2,0,0,1-2,2H8a2,2,0,0,1-2-2V4A1.993,1.993,0,0,1,8,2H20a2,2,0,0,1,2,2V16m-6,4v2H4a2,2,0,0,1-2-2V7H4V20Z" transform="translate(7 4)" fill="#fff"/>
+  </g>
+</svg>

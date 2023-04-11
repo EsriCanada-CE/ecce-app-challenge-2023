@@ -1,0 +1,64 @@
+{
+    "access": "shared",
+    "accessInformation": "Built by The Tree-O (Paramvir Singh, Gabriel Diniz, and Ben Woodward) for the 2023 ECCE App Challenge.",
+    "advancedSettings": null,
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "categories": [
+    ],
+    "commentsEnabled": true,
+    "created": 1676943401000,
+    "culture": "en-us",
+    "description": "\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'>TReecorder allows you to learn about the street trees in your area, report damage to trees to city officials, and contribute to citizen science projects about street trees.</p>\n<p style='-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'><br /></p>\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'>Built by The Tree-O (Paramvir Singh, Gabriel Diniz, and Ben Woodward) for the 2023 ECCE App Challenge.</p>\n<p style='-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'><br /></p>\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'>Built using the Nearby Template for ArcGIS AppStudio</p>",
+    "documentation": null,
+    "extent": [
+    ],
+    "groupDesignations": null,
+    "guid": null,
+    "id": "35cd468a6d2b4de4b30b1b577434e93a",
+    "industries": [
+    ],
+    "isOrgItem": true,
+    "itemControl": "admin",
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "lastViewed": 1677175200000,
+    "licenseInfo": "\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'>Add any special restrictions, disclaimers, terms and conditions, or limitations on using the item's content. You can edit this in the iteminfo.json or under Terms of use within ArcGIS item page.</p>",
+    "listed": false,
+    "modified": 1677210146000,
+    "name": "35cd468a6d2b4de4b30b1b577434e93a.zip",
+    "numComments": 6,
+    "numRatings": 0,
+    "numViews": 10,
+    "owner": "bwoodwar_uwaterloo",
+    "ownerFolder": null,
+    "properties": null,
+    "protected": false,
+    "proxyFilter": null,
+    "scoreCompleteness": 81,
+    "screenshots": [
+    ],
+    "size": 8752272,
+    "snippet": "TReecorder allows you to learn about the street trees in your area, report damage to trees to city officials, and contribute to citizen science projects about street trees.",
+    "spatialReference": null,
+    "subInfo": 0,
+    "tags": [
+    ],
+    "thumbnail": "thumbnail/thumbnail.png",
+    "title": "TReecorder Mobile",
+    "type": "Native Application",
+    "typeKeywords": [
+        "API_QML",
+        "App",
+        "Application",
+        "AppStudio",
+        "Configuration",
+        "Native",
+        "qml",
+        "Registered App"
+    ],
+    "url": null
+}

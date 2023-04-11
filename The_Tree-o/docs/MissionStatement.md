@@ -1,0 +1,2 @@
+# Mission Statement
+A healthy urban forest promotes a community’s air quality, mental health, and ecosystem. The TReecorder suite by Tree-O provides community members with a tool they can use to engage with nearby street trees, and helps arbourists and planners manage and plan their community’s urban forest to make it biodiverse, native, and climate-resilient. TReecorder is designed to work with currently available municipal street tree data, allowing communities to mobilize their data quickly.

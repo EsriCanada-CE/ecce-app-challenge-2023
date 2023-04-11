@@ -1,0 +1,7 @@
+Major Color Green: #175732
+Major Color Orange: #fc9403
+
+Static: #b36800
+Hover: #fc9403
+
+Previous Color: dark #120a00 / light dark #b36800 / bright #fc9403 / light bright #fcab3a
