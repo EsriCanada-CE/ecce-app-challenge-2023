@@ -4,4 +4,4 @@ Hosted in ArcGIS Online:
 - Story Map: https://storymaps.arcgis.com/stories/de95eb6e007642089686dc1c0b2bd677
 
 Hosted in GitHub
-- Project Website: https://github.com/adamreidsmith/ecce-app-challenge
+- Project Website: https://adamreidsmith.github.io/ecce-app-challenge/
