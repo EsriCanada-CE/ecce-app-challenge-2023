@@ -2,6 +2,7 @@
 ## Team Member Bios
 
 ![Teamphoto](../images/team.jpg)
+
 Left to Right: Jordan Lineker, Delphis Lamarche, Ganimul Singh
 
 
