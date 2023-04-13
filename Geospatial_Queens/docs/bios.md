@@ -1,6 +1,7 @@
 # Geospatial Queens
 ## Team Members
 ![Teamphoto](../images/team.jpg)
+
 Left: Emma Taniguchi, Right: Catherine Brenan
 
 **Catherine Brenan:** My name is Catherine Brenan (she/her), and I am a Dalhousie University undergraduate student completing a Combined Honours in Environmental Science and Chemistry with a Certificate in GIS. My research interests include using spatial modelling to understand carbon stock on the seafloor. I am excited about the app challenge since it will be a great experience to learn more about the different Esri tools and how they can be applied to urban ecology and conservation.
