@@ -2,10 +2,10 @@
 ## Team Member Bios
 
 ![Teamphoto](../images/team.jpg)
+
 Left to Right: Bay Berry, Nicolas Beauchamp, Beau Ahrens
 
 **Bay Berry:** Bay graduated from Dalhousie University in 2020 with a BSc in Earth Sciences. Her masters research at the Université du Québec à Rimouski investigates wintertime coastal erosion on the North Shore of the St Lawrence Estuary and the impacts of warm, icefoot-free winters. Bay's PhD research with the Dalhousie Coastal Hydrology Lab focuses on numerical modeling of permafrost coastal dynamics, combining terrestrial and oceanographic processes to simulate permafrost coastal erosion under current and future climate conditions.
-
 
 **Nicolas Beauchamp:** Nicolas is the GIS Intern with the Dalhousie University Killam Memorial Library and a recent graduate from the Department of Earth and Environmental Sciences. When not geeking out on John Nelson YouTube videos you can find him foraging for music in his local record shoppe.
 
