@@ -27,7 +27,7 @@ When you open the app, you will be presented with a map that you can use to navi
 4. If TReecorder Mobile is not visible, click on your profile (top left corner), click "Scan QR Code", and scan the QR code below.
 5. Explore the City of Waterloo's urban forest :)
 
-![TReecorder QR Code](https://raw.githubusercontent.com/BWoody711/TReecorder/main/TReecorder%20Mobile%20QR%20Code.png?token=GHSAT0AAAAAAB7GQEXHLD6F4EVE6GISSOFUY7ZCFZA)
+![TReecorder QR Code](TReecorder%20obile%20QR%20Code.png)
 
 *Dev Diaries*
 
