@@ -6,4 +6,14 @@ For 2023, teams participating the challenge were tasked to create an app that ad
 
 ## App Challenge Results:
 
-Judging has begun. Final results are anticipated to be announced May 5th
+Through rounds of internal judging and external judging, we are happy to announce the winning teams for the 2023 App Challenge. 
+
+Please join us to give a big congratulations to the winning team:
+* **[Team GeoJAM](https://esricanada-ce.github.io/appchallenge/2023/teams/bcit/Team_GeoJAM/) from the British Columbia Institute of Technology**
+
+The first runner-up is:
+* **[The Tree-o](https://esricanada-ce.github.io/appchallenge/2023/teams/uw/The_Tree-o/) from the University of Waterloo**
+
+The second runner up is:
+* **[Team GIS](https://esricanada-ce.github.io/appchallenge/2023/teams/mac/Team_GIS/) from McMaster University**
+
